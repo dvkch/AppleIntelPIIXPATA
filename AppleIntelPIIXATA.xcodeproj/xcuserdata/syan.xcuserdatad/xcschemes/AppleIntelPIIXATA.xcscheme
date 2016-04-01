@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "089C1673FE841209C02AAC07"
+               BlueprintIdentifier = "52952CB50DAC4FDB0070FE8E"
                BuildableName = "AppleIntelPIIXATA.kext"
                BlueprintName = "AppleIntelPIIXATA"
                ReferencedContainer = "container:AppleIntelPIIXATA.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "089C1673FE841209C02AAC07"
+            BlueprintIdentifier = "52952CB50DAC4FDB0070FE8E"
             BuildableName = "AppleIntelPIIXATA.kext"
             BlueprintName = "AppleIntelPIIXATA"
             ReferencedContainer = "container:AppleIntelPIIXATA.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "089C1673FE841209C02AAC07"
+            BlueprintIdentifier = "52952CB50DAC4FDB0070FE8E"
             BuildableName = "AppleIntelPIIXATA.kext"
             BlueprintName = "AppleIntelPIIXATA"
             ReferencedContainer = "container:AppleIntelPIIXATA.xcodeproj">
